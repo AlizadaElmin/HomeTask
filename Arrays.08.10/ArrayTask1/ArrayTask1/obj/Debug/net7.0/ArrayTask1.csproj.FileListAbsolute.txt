@@ -1,0 +1,15 @@
+/Users/elmin/Projects/ArrayTask1/ArrayTask1/bin/Debug/net7.0/ArrayTask1
+/Users/elmin/Projects/ArrayTask1/ArrayTask1/bin/Debug/net7.0/ArrayTask1.deps.json
+/Users/elmin/Projects/ArrayTask1/ArrayTask1/bin/Debug/net7.0/ArrayTask1.runtimeconfig.json
+/Users/elmin/Projects/ArrayTask1/ArrayTask1/bin/Debug/net7.0/ArrayTask1.dll
+/Users/elmin/Projects/ArrayTask1/ArrayTask1/bin/Debug/net7.0/ArrayTask1.pdb
+/Users/elmin/Projects/ArrayTask1/ArrayTask1/obj/Debug/net7.0/ArrayTask1.csproj.AssemblyReference.cache
+/Users/elmin/Projects/ArrayTask1/ArrayTask1/obj/Debug/net7.0/ArrayTask1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elmin/Projects/ArrayTask1/ArrayTask1/obj/Debug/net7.0/ArrayTask1.AssemblyInfoInputs.cache
+/Users/elmin/Projects/ArrayTask1/ArrayTask1/obj/Debug/net7.0/ArrayTask1.AssemblyInfo.cs
+/Users/elmin/Projects/ArrayTask1/ArrayTask1/obj/Debug/net7.0/ArrayTask1.csproj.CoreCompileInputs.cache
+/Users/elmin/Projects/ArrayTask1/ArrayTask1/obj/Debug/net7.0/ArrayTask1.dll
+/Users/elmin/Projects/ArrayTask1/ArrayTask1/obj/Debug/net7.0/refint/ArrayTask1.dll
+/Users/elmin/Projects/ArrayTask1/ArrayTask1/obj/Debug/net7.0/ArrayTask1.pdb
+/Users/elmin/Projects/ArrayTask1/ArrayTask1/obj/Debug/net7.0/ArrayTask1.genruntimeconfig.cache
+/Users/elmin/Projects/ArrayTask1/ArrayTask1/obj/Debug/net7.0/ref/ArrayTask1.dll
