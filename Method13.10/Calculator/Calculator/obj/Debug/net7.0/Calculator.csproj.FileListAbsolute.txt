@@ -1,0 +1,15 @@
+/Users/elmin/Projects/Calculator/Calculator/bin/Debug/net7.0/Calculator
+/Users/elmin/Projects/Calculator/Calculator/bin/Debug/net7.0/Calculator.deps.json
+/Users/elmin/Projects/Calculator/Calculator/bin/Debug/net7.0/Calculator.runtimeconfig.json
+/Users/elmin/Projects/Calculator/Calculator/bin/Debug/net7.0/Calculator.dll
+/Users/elmin/Projects/Calculator/Calculator/bin/Debug/net7.0/Calculator.pdb
+/Users/elmin/Projects/Calculator/Calculator/obj/Debug/net7.0/Calculator.csproj.AssemblyReference.cache
+/Users/elmin/Projects/Calculator/Calculator/obj/Debug/net7.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elmin/Projects/Calculator/Calculator/obj/Debug/net7.0/Calculator.AssemblyInfoInputs.cache
+/Users/elmin/Projects/Calculator/Calculator/obj/Debug/net7.0/Calculator.AssemblyInfo.cs
+/Users/elmin/Projects/Calculator/Calculator/obj/Debug/net7.0/Calculator.csproj.CoreCompileInputs.cache
+/Users/elmin/Projects/Calculator/Calculator/obj/Debug/net7.0/Calculator.dll
+/Users/elmin/Projects/Calculator/Calculator/obj/Debug/net7.0/refint/Calculator.dll
+/Users/elmin/Projects/Calculator/Calculator/obj/Debug/net7.0/Calculator.pdb
+/Users/elmin/Projects/Calculator/Calculator/obj/Debug/net7.0/Calculator.genruntimeconfig.cache
+/Users/elmin/Projects/Calculator/Calculator/obj/Debug/net7.0/ref/Calculator.dll

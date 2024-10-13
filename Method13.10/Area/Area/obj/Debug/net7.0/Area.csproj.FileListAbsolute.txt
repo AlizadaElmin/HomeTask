@@ -1,0 +1,15 @@
+/Users/elmin/Projects/Area/Area/bin/Debug/net7.0/Area
+/Users/elmin/Projects/Area/Area/bin/Debug/net7.0/Area.deps.json
+/Users/elmin/Projects/Area/Area/bin/Debug/net7.0/Area.runtimeconfig.json
+/Users/elmin/Projects/Area/Area/bin/Debug/net7.0/Area.dll
+/Users/elmin/Projects/Area/Area/bin/Debug/net7.0/Area.pdb
+/Users/elmin/Projects/Area/Area/obj/Debug/net7.0/Area.csproj.AssemblyReference.cache
+/Users/elmin/Projects/Area/Area/obj/Debug/net7.0/Area.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elmin/Projects/Area/Area/obj/Debug/net7.0/Area.AssemblyInfoInputs.cache
+/Users/elmin/Projects/Area/Area/obj/Debug/net7.0/Area.AssemblyInfo.cs
+/Users/elmin/Projects/Area/Area/obj/Debug/net7.0/Area.csproj.CoreCompileInputs.cache
+/Users/elmin/Projects/Area/Area/obj/Debug/net7.0/Area.dll
+/Users/elmin/Projects/Area/Area/obj/Debug/net7.0/refint/Area.dll
+/Users/elmin/Projects/Area/Area/obj/Debug/net7.0/Area.pdb
+/Users/elmin/Projects/Area/Area/obj/Debug/net7.0/Area.genruntimeconfig.cache
+/Users/elmin/Projects/Area/Area/obj/Debug/net7.0/ref/Area.dll

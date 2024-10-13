@@ -1,0 +1,15 @@
+/Users/elmin/Projects/Power/Power/bin/Debug/net7.0/Power
+/Users/elmin/Projects/Power/Power/bin/Debug/net7.0/Power.deps.json
+/Users/elmin/Projects/Power/Power/bin/Debug/net7.0/Power.runtimeconfig.json
+/Users/elmin/Projects/Power/Power/bin/Debug/net7.0/Power.dll
+/Users/elmin/Projects/Power/Power/bin/Debug/net7.0/Power.pdb
+/Users/elmin/Projects/Power/Power/obj/Debug/net7.0/Power.csproj.AssemblyReference.cache
+/Users/elmin/Projects/Power/Power/obj/Debug/net7.0/Power.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elmin/Projects/Power/Power/obj/Debug/net7.0/Power.AssemblyInfoInputs.cache
+/Users/elmin/Projects/Power/Power/obj/Debug/net7.0/Power.AssemblyInfo.cs
+/Users/elmin/Projects/Power/Power/obj/Debug/net7.0/Power.csproj.CoreCompileInputs.cache
+/Users/elmin/Projects/Power/Power/obj/Debug/net7.0/Power.dll
+/Users/elmin/Projects/Power/Power/obj/Debug/net7.0/refint/Power.dll
+/Users/elmin/Projects/Power/Power/obj/Debug/net7.0/Power.pdb
+/Users/elmin/Projects/Power/Power/obj/Debug/net7.0/Power.genruntimeconfig.cache
+/Users/elmin/Projects/Power/Power/obj/Debug/net7.0/ref/Power.dll

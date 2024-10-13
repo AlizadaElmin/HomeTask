@@ -1,0 +1,15 @@
+/Users/elmin/Projects/FullName/FullName/bin/Debug/net7.0/FullName
+/Users/elmin/Projects/FullName/FullName/bin/Debug/net7.0/FullName.deps.json
+/Users/elmin/Projects/FullName/FullName/bin/Debug/net7.0/FullName.runtimeconfig.json
+/Users/elmin/Projects/FullName/FullName/bin/Debug/net7.0/FullName.dll
+/Users/elmin/Projects/FullName/FullName/bin/Debug/net7.0/FullName.pdb
+/Users/elmin/Projects/FullName/FullName/obj/Debug/net7.0/FullName.csproj.AssemblyReference.cache
+/Users/elmin/Projects/FullName/FullName/obj/Debug/net7.0/FullName.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elmin/Projects/FullName/FullName/obj/Debug/net7.0/FullName.AssemblyInfoInputs.cache
+/Users/elmin/Projects/FullName/FullName/obj/Debug/net7.0/FullName.AssemblyInfo.cs
+/Users/elmin/Projects/FullName/FullName/obj/Debug/net7.0/FullName.csproj.CoreCompileInputs.cache
+/Users/elmin/Projects/FullName/FullName/obj/Debug/net7.0/FullName.dll
+/Users/elmin/Projects/FullName/FullName/obj/Debug/net7.0/refint/FullName.dll
+/Users/elmin/Projects/FullName/FullName/obj/Debug/net7.0/FullName.pdb
+/Users/elmin/Projects/FullName/FullName/obj/Debug/net7.0/FullName.genruntimeconfig.cache
+/Users/elmin/Projects/FullName/FullName/obj/Debug/net7.0/ref/FullName.dll
