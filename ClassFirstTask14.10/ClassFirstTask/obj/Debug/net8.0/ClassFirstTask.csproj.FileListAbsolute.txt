@@ -1,0 +1,14 @@
+/Users/elmin/RiderProjects/ClassFirstTask/ClassFirstTask/bin/Debug/net8.0/ClassFirstTask
+/Users/elmin/RiderProjects/ClassFirstTask/ClassFirstTask/bin/Debug/net8.0/ClassFirstTask.deps.json
+/Users/elmin/RiderProjects/ClassFirstTask/ClassFirstTask/bin/Debug/net8.0/ClassFirstTask.runtimeconfig.json
+/Users/elmin/RiderProjects/ClassFirstTask/ClassFirstTask/bin/Debug/net8.0/ClassFirstTask.dll
+/Users/elmin/RiderProjects/ClassFirstTask/ClassFirstTask/bin/Debug/net8.0/ClassFirstTask.pdb
+/Users/elmin/RiderProjects/ClassFirstTask/ClassFirstTask/obj/Debug/net8.0/ClassFirstTask.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elmin/RiderProjects/ClassFirstTask/ClassFirstTask/obj/Debug/net8.0/ClassFirstTask.AssemblyInfoInputs.cache
+/Users/elmin/RiderProjects/ClassFirstTask/ClassFirstTask/obj/Debug/net8.0/ClassFirstTask.AssemblyInfo.cs
+/Users/elmin/RiderProjects/ClassFirstTask/ClassFirstTask/obj/Debug/net8.0/ClassFirstTask.csproj.CoreCompileInputs.cache
+/Users/elmin/RiderProjects/ClassFirstTask/ClassFirstTask/obj/Debug/net8.0/ClassFirstTask.dll
+/Users/elmin/RiderProjects/ClassFirstTask/ClassFirstTask/obj/Debug/net8.0/refint/ClassFirstTask.dll
+/Users/elmin/RiderProjects/ClassFirstTask/ClassFirstTask/obj/Debug/net8.0/ClassFirstTask.pdb
+/Users/elmin/RiderProjects/ClassFirstTask/ClassFirstTask/obj/Debug/net8.0/ClassFirstTask.genruntimeconfig.cache
+/Users/elmin/RiderProjects/ClassFirstTask/ClassFirstTask/obj/Debug/net8.0/ref/ClassFirstTask.dll
