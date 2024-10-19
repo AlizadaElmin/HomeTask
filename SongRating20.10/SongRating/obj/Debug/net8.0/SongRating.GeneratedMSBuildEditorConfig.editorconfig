@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SongRating
-build_property.ProjectDir = /Users/elmin/RiderProjects/SongRating/SongRating/
+build_property.ProjectDir = /Users/elmin/Desktop/Code/HomeTask/SongRating20.10/SongRating/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

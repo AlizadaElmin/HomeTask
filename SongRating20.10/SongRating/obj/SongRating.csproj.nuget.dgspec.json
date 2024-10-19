@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/elmin/RiderProjects/SongRating/SongRating/SongRating.csproj": {}
+    "/Users/elmin/Desktop/Code/HomeTask/SongRating20.10/SongRating/SongRating.csproj": {}
   },
   "projects": {
-    "/Users/elmin/RiderProjects/SongRating/SongRating/SongRating.csproj": {
+    "/Users/elmin/Desktop/Code/HomeTask/SongRating20.10/SongRating/SongRating.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/elmin/RiderProjects/SongRating/SongRating/SongRating.csproj",
+        "projectUniqueName": "/Users/elmin/Desktop/Code/HomeTask/SongRating20.10/SongRating/SongRating.csproj",
         "projectName": "SongRating",
-        "projectPath": "/Users/elmin/RiderProjects/SongRating/SongRating/SongRating.csproj",
+        "projectPath": "/Users/elmin/Desktop/Code/HomeTask/SongRating20.10/SongRating/SongRating.csproj",
         "packagesPath": "/Users/elmin/.nuget/packages/",
-        "outputPath": "/Users/elmin/RiderProjects/SongRating/SongRating/obj/",
+        "outputPath": "/Users/elmin/Desktop/Code/HomeTask/SongRating20.10/SongRating/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/elmin/.nuget/NuGet/NuGet.Config"
