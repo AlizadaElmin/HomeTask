@@ -1,0 +1,14 @@
+/Users/elmin/RiderProjects/SongRating/SongRating/bin/Debug/net8.0/SongRating
+/Users/elmin/RiderProjects/SongRating/SongRating/bin/Debug/net8.0/SongRating.deps.json
+/Users/elmin/RiderProjects/SongRating/SongRating/bin/Debug/net8.0/SongRating.runtimeconfig.json
+/Users/elmin/RiderProjects/SongRating/SongRating/bin/Debug/net8.0/SongRating.dll
+/Users/elmin/RiderProjects/SongRating/SongRating/bin/Debug/net8.0/SongRating.pdb
+/Users/elmin/RiderProjects/SongRating/SongRating/obj/Debug/net8.0/SongRating.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elmin/RiderProjects/SongRating/SongRating/obj/Debug/net8.0/SongRating.AssemblyInfoInputs.cache
+/Users/elmin/RiderProjects/SongRating/SongRating/obj/Debug/net8.0/SongRating.AssemblyInfo.cs
+/Users/elmin/RiderProjects/SongRating/SongRating/obj/Debug/net8.0/SongRating.csproj.CoreCompileInputs.cache
+/Users/elmin/RiderProjects/SongRating/SongRating/obj/Debug/net8.0/SongRating.dll
+/Users/elmin/RiderProjects/SongRating/SongRating/obj/Debug/net8.0/refint/SongRating.dll
+/Users/elmin/RiderProjects/SongRating/SongRating/obj/Debug/net8.0/SongRating.pdb
+/Users/elmin/RiderProjects/SongRating/SongRating/obj/Debug/net8.0/SongRating.genruntimeconfig.cache
+/Users/elmin/RiderProjects/SongRating/SongRating/obj/Debug/net8.0/ref/SongRating.dll
