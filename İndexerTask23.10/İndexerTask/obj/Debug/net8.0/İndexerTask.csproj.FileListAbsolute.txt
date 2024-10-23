@@ -1,0 +1,14 @@
+/Users/elmin/RiderProjects/İndexerTask/İndexerTask/bin/Debug/net8.0/İndexerTask
+/Users/elmin/RiderProjects/İndexerTask/İndexerTask/bin/Debug/net8.0/İndexerTask.deps.json
+/Users/elmin/RiderProjects/İndexerTask/İndexerTask/bin/Debug/net8.0/İndexerTask.runtimeconfig.json
+/Users/elmin/RiderProjects/İndexerTask/İndexerTask/bin/Debug/net8.0/İndexerTask.dll
+/Users/elmin/RiderProjects/İndexerTask/İndexerTask/bin/Debug/net8.0/İndexerTask.pdb
+/Users/elmin/RiderProjects/İndexerTask/İndexerTask/obj/Debug/net8.0/İndexerTask.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elmin/RiderProjects/İndexerTask/İndexerTask/obj/Debug/net8.0/İndexerTask.AssemblyInfoInputs.cache
+/Users/elmin/RiderProjects/İndexerTask/İndexerTask/obj/Debug/net8.0/İndexerTask.AssemblyInfo.cs
+/Users/elmin/RiderProjects/İndexerTask/İndexerTask/obj/Debug/net8.0/İndexerTask.csproj.CoreCompileInputs.cache
+/Users/elmin/RiderProjects/İndexerTask/İndexerTask/obj/Debug/net8.0/İndexerTask.dll
+/Users/elmin/RiderProjects/İndexerTask/İndexerTask/obj/Debug/net8.0/refint/İndexerTask.dll
+/Users/elmin/RiderProjects/İndexerTask/İndexerTask/obj/Debug/net8.0/İndexerTask.pdb
+/Users/elmin/RiderProjects/İndexerTask/İndexerTask/obj/Debug/net8.0/İndexerTask.genruntimeconfig.cache
+/Users/elmin/RiderProjects/İndexerTask/İndexerTask/obj/Debug/net8.0/ref/İndexerTask.dll
