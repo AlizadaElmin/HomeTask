@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/elmin/RiderProjects/İndexerTask/İndexerTask/İndexerTask.csproj",
+      "projectUniqueName": "/Users/elmin/Desktop/Code/HomeTask/İndexerTask23.10/İndexerTask/İndexerTask.csproj",
       "projectName": "İndexerTask",
-      "projectPath": "/Users/elmin/RiderProjects/İndexerTask/İndexerTask/İndexerTask.csproj",
+      "projectPath": "/Users/elmin/Desktop/Code/HomeTask/İndexerTask23.10/İndexerTask/İndexerTask.csproj",
       "packagesPath": "/Users/elmin/.nuget/packages/",
-      "outputPath": "/Users/elmin/RiderProjects/İndexerTask/İndexerTask/obj/",
+      "outputPath": "/Users/elmin/Desktop/Code/HomeTask/İndexerTask23.10/İndexerTask/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/elmin/.nuget/NuGet/NuGet.Config"

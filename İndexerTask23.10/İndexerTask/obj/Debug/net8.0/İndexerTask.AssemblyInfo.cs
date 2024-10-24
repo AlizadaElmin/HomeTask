@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("İndexerTask")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5527e44c5f97b5c62ca44539c8d2dfac3c05d6be")]
 [assembly: System.Reflection.AssemblyProductAttribute("İndexerTask")]
 [assembly: System.Reflection.AssemblyTitleAttribute("İndexerTask")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

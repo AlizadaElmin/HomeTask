@@ -100,7 +100,7 @@ public class ListInt
 
     public int LastIndexOf(int num)
     {
-        for (int i = _array.Length-1; i >= 0; i++)
+        for (int i = _array.Length-1; i >= 0; i--)
         {
             if (_array[i] == num)
             {
@@ -113,7 +113,7 @@ public class ListInt
 
     public void Insert(int num, int index)
     {
-        if (index > _array.Length - 1 || index < 0)
+        if (index > _array.Length || index < 0)
         {
             Console.WriteLine("Index doğru daxil edilməyib.");
         }
@@ -132,6 +132,25 @@ public class ListInt
             _array = newArr;
         }
         
+    }
+
+    public float Average()
+    {
+        // float sum = Sum();
+        
+        float sum = 0;
+        float result = 0;
+        if (_array.Length == 0)
+        {
+            return 0;
+        }
+        foreach (int num in _array)
+        {
+            sum += num;
+        }
+        
+        result = sum / _array.Length;
+        return result;
     }
     
 }
