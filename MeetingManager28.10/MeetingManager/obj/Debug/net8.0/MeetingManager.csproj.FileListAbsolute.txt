@@ -1,0 +1,14 @@
+/Users/elmin/RiderProjects/MeetingManager/MeetingManager/bin/Debug/net8.0/MeetingManager
+/Users/elmin/RiderProjects/MeetingManager/MeetingManager/bin/Debug/net8.0/MeetingManager.deps.json
+/Users/elmin/RiderProjects/MeetingManager/MeetingManager/bin/Debug/net8.0/MeetingManager.runtimeconfig.json
+/Users/elmin/RiderProjects/MeetingManager/MeetingManager/bin/Debug/net8.0/MeetingManager.dll
+/Users/elmin/RiderProjects/MeetingManager/MeetingManager/bin/Debug/net8.0/MeetingManager.pdb
+/Users/elmin/RiderProjects/MeetingManager/MeetingManager/obj/Debug/net8.0/MeetingManager.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elmin/RiderProjects/MeetingManager/MeetingManager/obj/Debug/net8.0/MeetingManager.AssemblyInfoInputs.cache
+/Users/elmin/RiderProjects/MeetingManager/MeetingManager/obj/Debug/net8.0/MeetingManager.AssemblyInfo.cs
+/Users/elmin/RiderProjects/MeetingManager/MeetingManager/obj/Debug/net8.0/MeetingManager.csproj.CoreCompileInputs.cache
+/Users/elmin/RiderProjects/MeetingManager/MeetingManager/obj/Debug/net8.0/MeetingManager.dll
+/Users/elmin/RiderProjects/MeetingManager/MeetingManager/obj/Debug/net8.0/refint/MeetingManager.dll
+/Users/elmin/RiderProjects/MeetingManager/MeetingManager/obj/Debug/net8.0/MeetingManager.pdb
+/Users/elmin/RiderProjects/MeetingManager/MeetingManager/obj/Debug/net8.0/MeetingManager.genruntimeconfig.cache
+/Users/elmin/RiderProjects/MeetingManager/MeetingManager/obj/Debug/net8.0/ref/MeetingManager.dll
