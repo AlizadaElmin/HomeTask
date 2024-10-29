@@ -1,0 +1,14 @@
+/Users/elmin/RiderProjects/GenericTask/GenericTask/bin/Debug/net8.0/GenericTask
+/Users/elmin/RiderProjects/GenericTask/GenericTask/bin/Debug/net8.0/GenericTask.deps.json
+/Users/elmin/RiderProjects/GenericTask/GenericTask/bin/Debug/net8.0/GenericTask.runtimeconfig.json
+/Users/elmin/RiderProjects/GenericTask/GenericTask/bin/Debug/net8.0/GenericTask.dll
+/Users/elmin/RiderProjects/GenericTask/GenericTask/bin/Debug/net8.0/GenericTask.pdb
+/Users/elmin/RiderProjects/GenericTask/GenericTask/obj/Debug/net8.0/GenericTask.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elmin/RiderProjects/GenericTask/GenericTask/obj/Debug/net8.0/GenericTask.AssemblyInfoInputs.cache
+/Users/elmin/RiderProjects/GenericTask/GenericTask/obj/Debug/net8.0/GenericTask.AssemblyInfo.cs
+/Users/elmin/RiderProjects/GenericTask/GenericTask/obj/Debug/net8.0/GenericTask.csproj.CoreCompileInputs.cache
+/Users/elmin/RiderProjects/GenericTask/GenericTask/obj/Debug/net8.0/GenericTask.dll
+/Users/elmin/RiderProjects/GenericTask/GenericTask/obj/Debug/net8.0/refint/GenericTask.dll
+/Users/elmin/RiderProjects/GenericTask/GenericTask/obj/Debug/net8.0/GenericTask.pdb
+/Users/elmin/RiderProjects/GenericTask/GenericTask/obj/Debug/net8.0/GenericTask.genruntimeconfig.cache
+/Users/elmin/RiderProjects/GenericTask/GenericTask/obj/Debug/net8.0/ref/GenericTask.dll
