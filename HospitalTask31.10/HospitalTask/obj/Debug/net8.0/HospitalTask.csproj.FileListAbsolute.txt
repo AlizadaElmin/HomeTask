@@ -1,0 +1,14 @@
+/Users/elmin/RiderProjects/HospitalTask/HospitalTask/bin/Debug/net8.0/HospitalTask
+/Users/elmin/RiderProjects/HospitalTask/HospitalTask/bin/Debug/net8.0/HospitalTask.deps.json
+/Users/elmin/RiderProjects/HospitalTask/HospitalTask/bin/Debug/net8.0/HospitalTask.runtimeconfig.json
+/Users/elmin/RiderProjects/HospitalTask/HospitalTask/bin/Debug/net8.0/HospitalTask.dll
+/Users/elmin/RiderProjects/HospitalTask/HospitalTask/bin/Debug/net8.0/HospitalTask.pdb
+/Users/elmin/RiderProjects/HospitalTask/HospitalTask/obj/Debug/net8.0/HospitalTask.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elmin/RiderProjects/HospitalTask/HospitalTask/obj/Debug/net8.0/HospitalTask.AssemblyInfoInputs.cache
+/Users/elmin/RiderProjects/HospitalTask/HospitalTask/obj/Debug/net8.0/HospitalTask.AssemblyInfo.cs
+/Users/elmin/RiderProjects/HospitalTask/HospitalTask/obj/Debug/net8.0/HospitalTask.csproj.CoreCompileInputs.cache
+/Users/elmin/RiderProjects/HospitalTask/HospitalTask/obj/Debug/net8.0/HospitalTask.dll
+/Users/elmin/RiderProjects/HospitalTask/HospitalTask/obj/Debug/net8.0/refint/HospitalTask.dll
+/Users/elmin/RiderProjects/HospitalTask/HospitalTask/obj/Debug/net8.0/HospitalTask.pdb
+/Users/elmin/RiderProjects/HospitalTask/HospitalTask/obj/Debug/net8.0/HospitalTask.genruntimeconfig.cache
+/Users/elmin/RiderProjects/HospitalTask/HospitalTask/obj/Debug/net8.0/ref/HospitalTask.dll
