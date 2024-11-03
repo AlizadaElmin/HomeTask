@@ -1,0 +1,17 @@
+/Users/elmin/RiderProjects/FileStreamTask/FileStreamTask/bin/Debug/net8.0/FileStreamTask
+/Users/elmin/RiderProjects/FileStreamTask/FileStreamTask/bin/Debug/net8.0/FileStreamTask.deps.json
+/Users/elmin/RiderProjects/FileStreamTask/FileStreamTask/bin/Debug/net8.0/FileStreamTask.runtimeconfig.json
+/Users/elmin/RiderProjects/FileStreamTask/FileStreamTask/bin/Debug/net8.0/FileStreamTask.dll
+/Users/elmin/RiderProjects/FileStreamTask/FileStreamTask/bin/Debug/net8.0/FileStreamTask.pdb
+/Users/elmin/RiderProjects/FileStreamTask/FileStreamTask/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/elmin/RiderProjects/FileStreamTask/FileStreamTask/obj/Debug/net8.0/FileStreamTask.csproj.AssemblyReference.cache
+/Users/elmin/RiderProjects/FileStreamTask/FileStreamTask/obj/Debug/net8.0/FileStreamTask.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elmin/RiderProjects/FileStreamTask/FileStreamTask/obj/Debug/net8.0/FileStreamTask.AssemblyInfoInputs.cache
+/Users/elmin/RiderProjects/FileStreamTask/FileStreamTask/obj/Debug/net8.0/FileStreamTask.AssemblyInfo.cs
+/Users/elmin/RiderProjects/FileStreamTask/FileStreamTask/obj/Debug/net8.0/FileStreamTask.csproj.CoreCompileInputs.cache
+/Users/elmin/RiderProjects/FileStreamTask/FileStreamTask/obj/Debug/net8.0/FileStre.66678E6D.Up2Date
+/Users/elmin/RiderProjects/FileStreamTask/FileStreamTask/obj/Debug/net8.0/FileStreamTask.dll
+/Users/elmin/RiderProjects/FileStreamTask/FileStreamTask/obj/Debug/net8.0/refint/FileStreamTask.dll
+/Users/elmin/RiderProjects/FileStreamTask/FileStreamTask/obj/Debug/net8.0/FileStreamTask.pdb
+/Users/elmin/RiderProjects/FileStreamTask/FileStreamTask/obj/Debug/net8.0/FileStreamTask.genruntimeconfig.cache
+/Users/elmin/RiderProjects/FileStreamTask/FileStreamTask/obj/Debug/net8.0/ref/FileStreamTask.dll

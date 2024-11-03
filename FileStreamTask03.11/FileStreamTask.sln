@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileStreamTask", "FileStreamTask\FileStreamTask.csproj", "{AE83677B-1500-4048-8329-DEFD17BC0EAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE83677B-1500-4048-8329-DEFD17BC0EAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE83677B-1500-4048-8329-DEFD17BC0EAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE83677B-1500-4048-8329-DEFD17BC0EAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE83677B-1500-4048-8329-DEFD17BC0EAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vQk85aiRUr+A+romjWC4AHWet7esdhs4rYXQOYcoypcbprNG4Bexg30iX9Ezn3AIEB8Yd2ah7Lkr+Ga9a04cYQ==",
+  "success": true,
+  "projectFilePath": "/Users/elmin/RiderProjects/FileStreamTask/FileStreamTask/FileStreamTask.csproj",
+  "expectedPackageFiles": [
+    "/Users/elmin/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
