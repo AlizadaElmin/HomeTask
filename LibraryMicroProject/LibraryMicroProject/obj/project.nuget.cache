@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gZ9LQ5J0s4XxmIYuJ/63pFMnu3yWybrNyXmfZ+VLAGmaMD821ZYHlimrZ1RnsnPY9haylkYysLbmb1MPVnqjSg==",
+  "success": true,
+  "projectFilePath": "/Users/elmin/RiderProjects/LibraryMicroProject/LibraryMicroProject/LibraryMicroProject.csproj",
+  "expectedPackageFiles": [
+    "/Users/elmin/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

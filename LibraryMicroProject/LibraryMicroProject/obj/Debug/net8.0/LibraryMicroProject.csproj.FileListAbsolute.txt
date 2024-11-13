@@ -1,0 +1,17 @@
+/Users/elmin/RiderProjects/LibraryMicroProject/LibraryMicroProject/bin/Debug/net8.0/LibraryMicroProject
+/Users/elmin/RiderProjects/LibraryMicroProject/LibraryMicroProject/bin/Debug/net8.0/LibraryMicroProject.deps.json
+/Users/elmin/RiderProjects/LibraryMicroProject/LibraryMicroProject/bin/Debug/net8.0/LibraryMicroProject.runtimeconfig.json
+/Users/elmin/RiderProjects/LibraryMicroProject/LibraryMicroProject/bin/Debug/net8.0/LibraryMicroProject.dll
+/Users/elmin/RiderProjects/LibraryMicroProject/LibraryMicroProject/bin/Debug/net8.0/LibraryMicroProject.pdb
+/Users/elmin/RiderProjects/LibraryMicroProject/LibraryMicroProject/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/elmin/RiderProjects/LibraryMicroProject/LibraryMicroProject/obj/Debug/net8.0/LibraryMicroProject.csproj.AssemblyReference.cache
+/Users/elmin/RiderProjects/LibraryMicroProject/LibraryMicroProject/obj/Debug/net8.0/LibraryMicroProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elmin/RiderProjects/LibraryMicroProject/LibraryMicroProject/obj/Debug/net8.0/LibraryMicroProject.AssemblyInfoInputs.cache
+/Users/elmin/RiderProjects/LibraryMicroProject/LibraryMicroProject/obj/Debug/net8.0/LibraryMicroProject.AssemblyInfo.cs
+/Users/elmin/RiderProjects/LibraryMicroProject/LibraryMicroProject/obj/Debug/net8.0/LibraryMicroProject.csproj.CoreCompileInputs.cache
+/Users/elmin/RiderProjects/LibraryMicroProject/LibraryMicroProject/obj/Debug/net8.0/LibraryM.CBE1A8CE.Up2Date
+/Users/elmin/RiderProjects/LibraryMicroProject/LibraryMicroProject/obj/Debug/net8.0/LibraryMicroProject.dll
+/Users/elmin/RiderProjects/LibraryMicroProject/LibraryMicroProject/obj/Debug/net8.0/refint/LibraryMicroProject.dll
+/Users/elmin/RiderProjects/LibraryMicroProject/LibraryMicroProject/obj/Debug/net8.0/LibraryMicroProject.pdb
+/Users/elmin/RiderProjects/LibraryMicroProject/LibraryMicroProject/obj/Debug/net8.0/LibraryMicroProject.genruntimeconfig.cache
+/Users/elmin/RiderProjects/LibraryMicroProject/LibraryMicroProject/obj/Debug/net8.0/ref/LibraryMicroProject.dll
