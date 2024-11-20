@@ -1,0 +1,22 @@
+@using TodoApp.Models
+@model Todo
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Details</title>
+</head>
+<body>
+<p>
+    <strong>Title:</strong> @Model.Title
+</p>
+<p>
+    <strong>Description:</strong> @Model.Description
+</p>
+<p>
+    <strong>Deadline:</strong> @Model.Deadline?.ToString("yyyy-MM-dd")
+</p>
+
+</body>
+</html>
